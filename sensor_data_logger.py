@@ -102,3 +102,4 @@ if __name__ == "__main__":
     print("\n=== 데이터 저장 ===")
     logger.save_to_file()
     print("\n완료!")
+    created by...servant.
